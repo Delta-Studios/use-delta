@@ -9,7 +9,6 @@ int delta::put(std::string args) {
 }
 
 int delta::get(std::string &args) {
-    //args=std::cin.get();
     std::cin >> args;
     return 0;
 }
