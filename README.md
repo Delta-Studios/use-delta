@@ -1,7 +1,7 @@
 # Delta
 Delta is a projekt made by Anonymus_12321.
 
-Notizen: Geistiges Eigentum
+Notizen: Geistiges Eigentum,
 Original: 2018
 
 # License
