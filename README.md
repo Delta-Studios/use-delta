@@ -1,5 +1,6 @@
 # Delta
-Delta is a projekt made by Anonymus_12321 and licensed under the name AP-Studios.
+Delta is a projekt made by Anonymus_12321.
+
 Notizen: Geistiges Eigentum
 Original: 2018
 
