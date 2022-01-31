@@ -5,6 +5,6 @@ Notizen: Geistiges Eigentum,
 Original: 2018
 
 # License
-Delta (c) by AP-Studios
+Delta (c) 2018 Delta-Studios
 
 Licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://github.com/AP-Studios/Delta/blob/main/LICENSE.md).
