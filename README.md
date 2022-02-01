@@ -1,5 +1,5 @@
 # Delta
-Delta is a programing language with an easy to learn simple syntax.
+Delta is a programing language with an easy to learn and simple syntax.
 
 # Setup
 Empty
