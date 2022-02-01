@@ -22,6 +22,20 @@ end
 
 myFunction
 ```
+Example for argument expecting functions:
+```
+def myFunction arg anotherArg
+  puts 'Hello world!$n'+'anotherArg'
+end
+
+myFunction 'Arg1','Arg2'
+```
+Output:
+```
+Hello world!
+Arg1
+Arg2
+```
 (More help will coming soon)
 
 # License
