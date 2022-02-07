@@ -14,10 +14,12 @@ Coming soon
 ### Usage
 An example program that just prints the text "Hello world!":
 ```
+use Console
 puts('Hello world!')
 ```
 Functions can be created and called like this:
 ```
+use Console
 def myFunction
   puts('Hello world!')
 end
@@ -26,6 +28,7 @@ myFunction
 ```
 Example for argument expecting functions:
 ```
+use Console
 def myFunction arg anotherArg
   puts('Hello world!$n'+'anotherArg')
 end
