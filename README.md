@@ -14,12 +14,12 @@ Coming soon
 ### Usage
 An example program that just prints the text "Hello world!":
 ```
-puts 'Hello world!'
+puts('Hello world!')
 ```
 Functions can be created and called like this:
 ```
 def myFunction
-  puts 'Hello world!'
+  puts('Hello world!')
 end
 
 myFunction
@@ -27,12 +27,12 @@ myFunction
 Example for argument expecting functions:
 ```
 def myFunction arg anotherArg
-  puts 'Hello world!$n'+'anotherArg'
+  puts('Hello world!$n'+'anotherArg')
 end
 
-myFunction 'Arg1','Arg2'
+myFunction('Arg1','Arg2')
 ```
-Output:
+Console output:
 ```
 Hello world!
 Arg1
