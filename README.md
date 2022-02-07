@@ -1,7 +1,8 @@
 # Delta
-Delta is a programing language with an easy to learn and simple syntax.
+##What is Delta?
+Delta is a compiled programming language that offers a simple and easy to remember syntax. Included is a large library of useful functions. Delta tries to combine the different strengths of the major programming languages to form a useful and understandable tool for software development. 
 
-# Setup
+## Setup
 Empty
 ```
 
@@ -38,7 +39,7 @@ Arg2
 ```
 (More help will coming soon)
 
-# License
+## License
 Delta (c) 2018 Delta-Studios
 
 Notizen: Geistiges Eigentum,
