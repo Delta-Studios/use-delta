@@ -27,7 +27,6 @@ class delta::str {
     std::string getValue() {
         return value;
     }
-    //Eigene Funktionen z.B. trim oder so
 };
 class delta::bin {
     public:
@@ -53,23 +52,3 @@ class delta::num {
         return value;
     }
 };
-
-
-/*
-int delta::gets(const char *&args) {
-    char *line = NULL;
-    size_t len = 0;
-    ssize_t read = 0;
-    while (1) {
-        read = std::getline(&line, &len, stdin);
-        if (read == -1)
-            break;
-        //printf("line = %s", line);
-        //printf("line length = %zu\n", read);
-        //puts("");
-        args=("%s",line);
-    }
-    free(line);
-    return 0;
-}
-*/
