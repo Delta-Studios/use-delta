@@ -14,7 +14,7 @@ Coming soon
 ### Usage
 An example program that just prints the text "Hello world!":
 ```
-put 'Hello world!' ;"put" is a function in the standard library that prints a text on the console
+put 'Hello world!'
 ```
 Functions can be created and called like this:
 ```
