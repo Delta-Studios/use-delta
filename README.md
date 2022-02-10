@@ -1,7 +1,15 @@
 # Delta - The programing language
 
 ### What is Delta?
-Delta is a compiled programming language that offers a simple and easy to remember syntax. Included is a large library of useful functions. Delta tries to combine the different strengths of the major programming languages to form a useful and understandable tool for software development. 
+Delta is a compiled programming language that offers a simple and easy to remember syntax. Included is a large library of useful functions. Delta tries to combine the different strengths of the major programming languages to form a useful and understandable tool for software development.
+
+## Why Delta?
+- Delta does not require an entry function
+- Understandable and easy to read syntax
+- It does not need newline symbols: Just write on the next line
+- Delta can be used for Windows as well as for Linux
+- Each program is compiled to an executable file
+- Large and useful standard library
 
 ### Setup
 Empty
