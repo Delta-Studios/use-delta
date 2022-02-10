@@ -14,12 +14,12 @@ Coming soon
 ### Usage
 An example program that just prints the text "Hello world!":
 ```
-puts 'Hello world!' ;"puts" is a function in the standard library that prints a text on the console
+put 'Hello world!' ;"put" is a function in the standard library that prints a text on the console
 ```
 Functions can be created and called like this:
 ```
 def myFunction
-  puts 'Hello world!'
+  put 'Hello world!'
 end
 
 myFunction
@@ -29,7 +29,7 @@ Example for argument expecting functions:
 use Console
 
 def myFunction str arg, str arg2
-  puts 'Hello world!$n'+'arg2'+'arg2'
+  put 'Hello world!$n'+'arg2'+'arg2'
 end
 
 myFunction('Arg1','Arg2')
