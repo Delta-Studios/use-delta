@@ -14,15 +14,12 @@ Coming soon
 ### Usage
 An example program that just prints the text "Hello world!":
 ```
-use Console
-puts('Hello world!')
+puts 'Hello world!'
 ```
 Functions can be created and called like this:
 ```
-use Console
-
 def myFunction
-  puts('Hello world!')
+  puts 'Hello world!'
 end
 
 myFunction
@@ -31,8 +28,8 @@ Example for argument expecting functions:
 ```
 use Console
 
-def myFunction arg anotherArg
-  puts('Hello world!$n'+'anotherArg')
+def myFunction str arg, str arg2
+  puts 'Hello world!$n'+'arg2'+'arg2'
 end
 
 myFunction('Arg1','Arg2')
