@@ -12,12 +12,7 @@ Delta is a compiled programming language that offers a simple and easy to rememb
 - Large and useful standard library
 
 ### Setup
-Empty
-```
-
-Coming soon
-
-```
+Soon
 
 ### Usage
 An example program that just prints the text "Hello world!":
