@@ -26,7 +26,6 @@ myFunction
 ```
 Example for argument expecting functions:
 ```
-use Console
 
 def myFunction str arg, str arg2
   put 'Hello world!$n'+'arg2'+'arg2'
