@@ -32,7 +32,7 @@ def myFunction str arg, str arg2
   put 'Hello world!$n'+'arg2'+'arg2'
 end
 
-myFunction('Arg1','Arg2')
+myFunction'Arg1','Arg2'
 ```
 Console output:
 ```
