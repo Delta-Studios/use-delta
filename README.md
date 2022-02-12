@@ -37,13 +37,23 @@ def myFunction str arg, str arg2
   put 'Hello world!$n'+'arg2'+'arg2'
 end
 
-myFunction'Arg1','Arg2'
+myFunction 'Arg1','Arg2'
 ```
 Console output:
 ```
 Hello world!
 Arg1
 Arg2
+```
+Calling a function in another function call:
+```
+def func str arg
+  puts 'Test'
+end
+
+;To keep the source code clear despite whitespace syntax even with more complex statements, 
+;brackets are required for function calls within another function call to mark the parameter.
+puts 'This is a test:'+func('Hello Delta!')+' Test finished!'
 ```
 (More help will coming soon)
 
