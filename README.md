@@ -48,7 +48,7 @@ Arg2
 Calling a function in another function call:
 ```
 def func str arg
-  puts 'Test'
+  puts 'Test:'+args
 end
 
 puts 'This is a test:'+func('Hello Delta!')+' Test finished!'
