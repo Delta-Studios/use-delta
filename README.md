@@ -12,7 +12,7 @@ NOT YET DOWNLOADABLE
 - It does not need newline symbols: Just write on the next line
 - Delta can be used for Windows as well as for Linux
 - Each program is compiled to an executable file
-- Large and useful standard library
+- Large and extensive standard library
 
 ### Setup
 Soon
