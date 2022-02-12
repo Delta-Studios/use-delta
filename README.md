@@ -51,9 +51,10 @@ def func str arg
   puts 'Test'
 end
 
+puts 'This is a test:'+func('Hello Delta!')+' Test finished!'
+
 ;To keep the source code clear despite whitespace syntax even with more complex statements, 
 ;brackets are required for function calls within another function call to mark the parameter.
-puts 'This is a test:'+func('Hello Delta!')+' Test finished!'
 ```
 (More help will coming soon)
 
