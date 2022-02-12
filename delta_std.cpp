@@ -4,8 +4,6 @@
 #include <stdarg.h>
 #include <string>
 
-//DER USER DARF KEIN STD STRING MEHR BENUTZEN KÖNNEN
-
 class delta::console {
     public:
     static int log(std::string args, ...) {
@@ -30,7 +28,6 @@ class delta::str {
     std::string getValue() {
         return value;
     }
-    //Eigene Funktionen z.B. trim oder so
 };
 class delta::bin {
     public:
