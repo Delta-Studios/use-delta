@@ -1,4 +1,4 @@
-Delta (c) 2018 Delta-Studios
+Delta (c) 2022 Delta-Studios
 
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. To view a copy of this license, visit
 http://creativecommons.org/licenses/by-nc-sa/4.0/.
