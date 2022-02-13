@@ -64,4 +64,4 @@ Delta (c) 2018 Delta-Studios
 Notizen: Geistiges Eigentum,
 Original: 2018
 
-Licensed under a [Creative Commons License](https://github.com/Delta-Studios/Delta/edit/main/LICENSE.md).
+Licensed under a [Creative Commons License](https://github.com/Delta-Studios/use-delta/blob/main/LICENSE.md).
