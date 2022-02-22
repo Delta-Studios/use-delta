@@ -1,2 +1,0 @@
-./installCheck
-pause -p
